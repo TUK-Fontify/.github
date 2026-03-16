@@ -48,43 +48,18 @@
   
 | 분야 | 사용 기술 |
 |:------:|:--------------------------:|
-|<strong>Frontend</strong>| <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> |
-| <strong> Backend </strong> | <img src = "https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
-| <strong> DataBase </strong> | <img src = "https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> |
-| <strong> DevOps </strong> | <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> |
+|<strong>Frontend</strong>| <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">  |
+| <strong> Backend </strong> | <img src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> |
+| <strong> DataBase </strong> | <img src = "hhttps://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"> |
+| <strong> DevOps </strong> |  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  |
 | <strong> ETC </strong> | <img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> |
 
 </div>
 
-## 📆 일정 📆
-<p align="center">
-<img width="900" src = "https://github.com/user-attachments/assets/2dd07913-dcf8-4e25-97f1-817ae1a6046b"> <br>
-<img width="900" src ="https://github.com/user-attachments/assets/58631842-2cf3-4c6f-8c23-70106c24e627">
-<img width="900" src="https://github.com/user-attachments/assets/50bd6c60-0a6c-4443-9e4c-0a8f807151d4">
-<img width="900" src="https://github.com/user-attachments/assets/ca5b881e-94e7-41b4-a932-f29ebd262d23">
-</p>
-
-> 상세일정을 보고싶다면?
-> <a href = "https://drive.google.com/file/d/1rFrqaWC5YcvNnjylfoi3GrwuYjLE4Qvq/view?usp=drive_link"> TH_GanttChart</a>
-
 ## 📌 정기 회의 📌
 매주 월요일 6pm / 수요일 1pm 
 
-##  🗂자료실 🗂
- 통합 자료
-- <a href = "https://drive.google.com/file/d/1PWDy0bk7yWFf5zSxnszCO37uCx1hHFtU/view?usp=sharing">팀 하이재킹 아이디어</a>
-
- 종합설계기획 발표 및 제출 서류
-- <a href = "https://drive.google.com/file/d/176_STpg_pBsIT_EmeeFJf_z5qdy2MSUh/view?usp=sharing">팀 하이재킹 제안서</a>
-- <a href = "https://drive.google.com/file/d/14pNoPenm9NCOFus4_Id3Xb9OWA8gTNcc/view?usp=sharing">팀 하이재킹 요약 계획서</a>
-- <a href = "https://docs.google.com/presentation/d/1yz5gyiYBwBFY1xeWGXbyRp7kZKCSKEi1/edit?usp=drive_link&ouid=102873262839899259467&rtpof=true&sd=true">시스템 구성도, 개발 환경, 운용 환경, 데모 환경</a>
-- <a href = "https://drive.google.com/file/d/106PggYcS9-Hg3sq0sLVcIDpOqJFWpi5G/view?usp=drive_link">에픽, 백로그, 1차스프린트</a>
-- <a href = "https://docs.google.com/presentation/d/1QXtck9GL4IYpaKq5fG3id_MRxDs5QOBO/edit?usp=sharing&ouid=110442659794936061964&rtpof=true&sd=true">2차스프린트</a>
 ## 🚥 개발자 🚥
 **원가형** | **김채은** | **김현민** | **김서연**
 :------: | :-------: | :-------: | :------: 
-<img src="https://avatars.githubusercontent.com/u/134044125?s=64&v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/67358565?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/133322979?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/150454163?v=4" width="150" height="150"/>
-[@HyunBeen0903](https://github.com/HyunBeen0903) | [@srn13542](https://github.com/srn13542) | [@kecetchup](https://github.com/kecetchup) | [@Ret751](https://github.com/Ret751)
 
-## 출처 
-1. 대중교통 길찾기 : <a href="https://lab.odsay.com/"> Odsay API</a>
