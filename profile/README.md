@@ -50,7 +50,7 @@
 |:------:|:--------------------------:|
 |<strong>Frontend</strong>| <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">  |
 | <strong> Backend </strong> | <img src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> |
-| <strong> DataBase </strong> | <img src = "hhttps://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"> |
+| <strong> DataBase </strong> | <img src = "https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"> |
 | <strong> DevOps </strong> |  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  |
 | <strong> ETC </strong> | <img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> |
 
