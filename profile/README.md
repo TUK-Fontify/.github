@@ -23,35 +23,24 @@
 "https://github.com/TUK-Fontify/.github/blob/main/profile/images/1.png">
 </p>
 
-## 🖋️ 시스템 구성도 🖋️
-
+## 🖥 개념적 데이터 모델링 🖥
 <p align="center">
-<img width="900" src = "https://github.com/user-attachments/assets/b86e943d-aa16-4d88-a247-52fb5241a678">
+<img width="900" src = 
+"https://github.com/TUK-Fontify/.github/blob/main/profile/images/2.png">
 </p>
 
-###  시스템 상세 모듈
-<table align="center">
-    <tr>
-        <td align="center">
-            <h4>사용자 인증</h4>
-            <img src="https://github.com/user-attachments/assets/c7764825-cbbf-450e-a765-9d44ddd13095" alt="사용자 인증 이미지" width="400">
-        </td>
-        <td align="center">
-            <h4>대중교통 안내</h4>
-            <img src="https://github.com/user-attachments/assets/e74e2c86-f935-454c-9d0b-c494fc3cd8ad" alt="대중교통 안내 이미지" width="400">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <h4>IOT 등록, 홈 서비스</h4>
-            <img src="https://github.com/user-attachments/assets/758b457e-397b-42e4-8a75-566cebd0e3e2" alt="IOT 등록, 홈 서비스 이미지" width="400">
-        </td>
-        <td align="center">
-            <h4>음향신호기 기능</h4>
-            <img src="https://github.com/user-attachments/assets/90cf2ca1-5986-4b84-b856-db6bbe335253" alt="음향신호기 기능 이미지" width="400">
-        </td>
-    </tr>
-</table>
+## 🖥 클래스 다이어그램 🖥
+<p align="center">
+<img width="900" src = 
+"https://github.com/TUK-Fontify/.github/blob/main/profile/images/3.png">
+</p>
+
+## 🖋️ ERD 🖋️
+<p align="center">
+<img width="900" src = 
+"https://github.com/TUK-Fontify/.github/blob/main/profile/images/4.png">
+</p>
+
 
 ## ⚙ 기술 스택 ⚙
 
@@ -59,7 +48,7 @@
   
 | 분야 | 사용 기술 |
 |:------:|:--------------------------:|
-|<strong>Frontend</strong>| <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> |
+|<strong>Frontend</strong>| <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> |
 | <strong> Backend </strong> | <img src = "https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
 | <strong> DataBase </strong> | <img src = "https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> |
 | <strong> DevOps </strong> | <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> |
