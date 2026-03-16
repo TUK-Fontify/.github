@@ -19,7 +19,8 @@
 
 ## 🖥 시스템 시나리오 🖥
 <p align="center">
-<img width="900" src = "https://github.com/user-attachments/assets/656a2ebb-ea70-41cb-acb7-3caef437a1bf">
+<img width="900" src = 
+"https://github.com/TUK-Fontify/.github/blob/main/profile/images/1.png">
 </p>
 
 ## 🖋️ 시스템 구성도 🖋️
